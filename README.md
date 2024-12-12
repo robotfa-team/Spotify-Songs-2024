@@ -41,7 +41,7 @@ This dataset presents a comprehensive compilation of the most streamed songs on 
 4. **Integrate the API**
    - Use the token to authenticate your requests. Here’s a basic example in cURL:
      ```bash
-     curl -X GET "https://spotify-songs-2024.p.rapidapi.com.rapidapi.com/list" \
+     curl -X GET "https://spotify-songs-2024.p.rapidapi.com/list" \
      -H "X-RapidAPI-Key: YOUR_API_KEY" \
      -H "X-RapidAPI-Host: spotify-songs-2024.p.rapidapi.com"
      ```
